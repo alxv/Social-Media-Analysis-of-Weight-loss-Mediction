@@ -1,4 +1,6 @@
-# Patient-Led Experimentation With GLP-1 Receptor Agonists: Social Media Analysis of Unmonitored Dosing and Medication Modification Behaviours
+# Cost Strategies and Regimen Changes Discussed in Online GLP-1 Receptor Agonist Communities: Large Language Model Assisted Analysis of Reddit Posts 
+<img width="468" height="112" alt="image" src="https://github.com/user-attachments/assets/b3a02cfd-9806-4e35-bd9b-5fef920f6f68" />
+
 
 **Authors:** Poornima Velswamy¹†, Alexandar Vincet-paulraj†, Lauren E Walker*  
 **Affiliations:** ¹ Centre for Experimental Therapeutics (TherEx), University of Liverpool, Liverpool, United Kingdom.  
