@@ -9,8 +9,6 @@
 ---
 
 ## Overview
-This repository contains the code, datasets, and analysis notebooks for the publication: **"Patient-Led Experimentation With GLP-1 Receptor Agonists: Social Media Analysis of Unmonitored Dosing and Medication Modification Behaviours."** 
-
 The study investigates the unmonitored dosing, compounding, and modification of GLP-1 receptor agonists (e.g., semaglutide, tirzepatide) discussed on social media platforms like Reddit. This repository specifically houses the tools used to download and analyze related pharmacovigilance data from the FDA Adverse Event Reporting System (FAERS), conduct Proportional Reporting Ratio (PRR) signal detection, and compare these official adverse event signals to Reddit-derived social media timelines for early detection analysis.
 
 ## Repository Structure
